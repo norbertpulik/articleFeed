@@ -1,0 +1,20 @@
+# Credentials and state
+.env
+storageState.json
+
+# SSL certs – we don’t need these on GH Pages
+certs/
+*.pem
+
+# Debug images and logs
+*.png
+import_error.png
+debug_screenshot.png
+timeout.png
+
+# Python caches and scripts
+__pycache__/
+*.py[cod]
+scripty/
+csv/
+gpt_generated_articles/
