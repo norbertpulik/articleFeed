@@ -15,6 +15,5 @@ timeout.png
 # Python caches and scripts
 __pycache__/
 *.py[cod]
-scripty/
 csv/
 gpt_generated_articles/
